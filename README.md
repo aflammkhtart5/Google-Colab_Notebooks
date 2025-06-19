@@ -28,6 +28,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Basic_Wan2_1_VACE_&_CausVid_LoRA_4_Text_to_Video(WIP).ipynb)  | Wan 2.1 VACE 14B & CausVid LoRA for faster Text to Video Generation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Basic_Wan2_1_VACE_&_CausVid_LoRA_4_Image_to_Video.ipynb)  | Wan 2.1 VACE 14B & CausVid LoRA for faster Image to Video Generation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_VACE_&_CausVid_LoRA_4_Video_to_Video.ipynb)  | Wan 2.1 VACE 14B & CausVid LoRA for Video to Video Generation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_VACE_Img2Img_PoseTransfer.ipynb)  | Wan 2.1 VACE 14B & CausVid LoRA for Image to Image Pose Transfer (Experimental)
 
 
 ## Notebook Guide
